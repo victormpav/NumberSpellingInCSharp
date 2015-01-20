@@ -1,0 +1,8 @@
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\bin\Debug\DojoTDD.exe.config
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\bin\Debug\DojoTDD.exe
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\bin\Debug\DojoTDD.pdb
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\bin\Debug\nunit.framework.dll
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\bin\Debug\nunit.framework.xml
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\obj\Debug\DojoTDD.csprojResolveAssemblyReference.cache
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\obj\Debug\DojoTDD.exe
+c:\users\aguilaru\documents\visual studio 2013\Projects\DojoTDD\DojoTDD\obj\Debug\DojoTDD.pdb

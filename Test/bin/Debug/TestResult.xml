@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\aguilaru\Documents\Visual Studio 2013\Projects\DojoTDD\Test\bin\Debug\Test.dll" total="9" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2015-01-19" time="20:44:44">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Program Files (x86)\NUnit 2.6.3\bin" machine-name="AGUILARU3" user="aguilaru" user-domain="EMEA" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\aguilaru\Documents\Visual Studio 2013\Projects\DojoTDD\Test\bin\Debug\Test.dll" executed="True" result="Success" success="True" time="0.252" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Test" executed="True" result="Success" success="True" time="0.226" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="Tests" executed="True" result="Success" success="True" time="0.223" asserts="0">
+            <results>
+              <test-suite type="ParameterizedTest" name="test" executed="True" result="Success" success="True" time="0.210" asserts="0">
+                <results>
+                  <test-case name="Test.Tests.test(1,&quot;one&quot;)" executed="True" result="Success" success="True" time="0.174" asserts="1" />
+                  <test-case name="Test.Tests.test(21,&quot;twenty one&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.Tests.test(30,&quot;thirty&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.Tests.test(15,&quot;fifteen&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.Tests.test(99,&quot;ninety nine&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.Tests.test(5,&quot;five&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.Tests.test(56,&quot;fifty six&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.Tests.test(0,&quot;zero&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                  <test-case name="Test.Tests.test(10,&quot;ten&quot;)" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
